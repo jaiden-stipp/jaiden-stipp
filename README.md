@@ -53,8 +53,8 @@ A 35-space FPGA parking controller that combines finite-state-machine control wi
 
 ## Additional work
 
-- [UART](https://github.com/jaiden-stipp/UART) — transmitter and receiver FSMs verified with a ModelSim testbench
-- [RTL Challenges](https://github.com/jaiden-stipp/RTL-Challenges) — short practice designs including a synchronous FIFO, round-robin arbiter, ready/valid pipeline register, and sequence monitor
-- [Mecanum Wheel Car Project](https://github.com/jaiden-stipp/Mecanum-Wheel-Car-Project) — C++ object-oriented simulator for direction-aware mecanum-drive movement, motor abstractions, and a 2D environment
+- [UART](https://github.com/jaiden-stipp/UART) — transmitter and receiver FSMs 
+- [RTL Challenges](https://github.com/jaiden-stipp/RTL-Challenges) — short practice designs
+- [Mecanum Wheel Car Project](https://github.com/jaiden-stipp/Mecanum-Wheel-Car-Project) — C++ object-oriented simulator for direction-aware mecanum-drive movement
 
 
