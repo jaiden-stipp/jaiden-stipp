@@ -1,8 +1,9 @@
 # Hi, I'm Jaiden Stipp
 
-### FPGA / RTL / CPU Design Engineer
 
 I build hardware systems
+
+Student at the University of Washington Tacoma graduating Spring 2027
 
 ## Featured projects
 
