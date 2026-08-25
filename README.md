@@ -40,16 +40,6 @@ An offline desktop workspace for learning and developing with Verilog/SystemVeri
 
 **Focus:** Electron, React, Verilog/SystemVerilog, Icarus Verilog, Verilator, Yosys, VCD, desktop tooling
 
-### [FPGA Car Parking System](https://github.com/jaiden-stipp/Car-Parking)
-
-A 35-space FPGA parking controller that combines finite-state-machine control with real hardware timing.
-
-- Automatic servo gate control with PWM
-- Occupancy tracking with full-capacity protection
-- Button synchronization/debouncing and timed gate close behavior
-- Seven-segment occupancy display, availability LEDs, and near-capacity warning blink
-
-**Focus:** Verilog, FSM design, PWM, debouncing, timing, GPIO, seven-segment displays
 
 ## Additional work
 
