@@ -43,8 +43,8 @@ An offline desktop workspace for learning and developing with Verilog/SystemVeri
 
 ## Additional work
 
-- [UART](https://github.com/jaiden-stipp/UART) — transmitter and receiver FSMs 
+
 - [RTL Challenges](https://github.com/jaiden-stipp/RTL-Challenges) — short practice designs
-- [Mecanum Wheel Car Project](https://github.com/jaiden-stipp/Mecanum-Wheel-Car-Project) — C++ object-oriented simulator for direction-aware mecanum-drive movement
+- More to come
 
 
