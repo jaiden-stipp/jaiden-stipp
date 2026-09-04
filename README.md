@@ -41,10 +41,3 @@ An offline desktop workspace for learning and developing with Verilog/SystemVeri
 **Focus:** Electron, React, Verilog/SystemVerilog, Icarus Verilog, Verilator, Yosys, VCD, desktop tooling
 
 
-## Additional work
-
-
-- [RTL Challenges](https://github.com/jaiden-stipp/RTL-Challenges) — short practice designs
-- More to come
-
-
