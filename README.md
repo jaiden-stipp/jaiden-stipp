@@ -2,7 +2,8 @@
 
 I'm a Computer Engineering student at the University of Washington Tacoma, graduating in Spring 2027.
 
-I like building hardware from the ground up and seeing how far I can push an FPGA.
+I like building hardware from the ground up, making cool visualizations of data, and hiking mountains taller than me 
+<img width="3840" height="1172" alt="image" src="https://github.com/user-attachments/assets/ef8180f9-c3c0-49a0-967e-d807d25c7de3" />
 
 ## Featured projects
 
@@ -34,7 +35,3 @@ Sixty-four ants explore a randomly generated world, follow pheromone trails, col
 
 * [LinkedIn](https://www.linkedin.com/in/jaidenstipp/)
 * [Email](mailto:jaidenstipp@gmail.com)
-
-
-[![Jaiden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiden-stipp&theme=github-compact&hide_border=true&area=true)](https://github.com/jaiden-stipp)
-
