@@ -1,43 +1,40 @@
 # Hi, I'm Jaiden Stipp
 
+I'm a Computer Engineering student at the University of Washington Tacoma, graduating in Spring 2027.
 
-I build hardware systems
-
-Student at the University of Washington Tacoma graduating Spring 2027
+I like building hardware from the ground up and seeing how far I can push an FPGA.
 
 ## Featured projects
 
+### [FPGA 3D Graphics Renderer](https://github.com/jaiden-stipp/FPGA-3D-Renderer)
+
+A 3D renderer I built entirely in SystemVerilog for the DE2-115.
+
+It can load models from a C++ program over Ethernet and render them through a hardware pipeline with transforms, clipping, rasterization, depth testing, and double-buffered VGA output.
+
 ### [RV32I Core](https://github.com/jaiden-stipp/RV32I)
 
-A custom 32-bit RISC-V processor that grew from a single-cycle core into a 5-stage pipelined CPU and FPGA SoC.
+My implementation of a 32-bit RISC-V processor.
 
-- IF/ID/EX/MEM/WB pipeline with forwarding and load-use hazard detection
-- Branch and jump control, unified instruction/data memory, alignment checks, and performance counters
-- Directed assembly tests for ALU operations, memory access, branches, jumps, forwarding, hazards, and misaligned accesses
-- FPGA SoC integration with on-chip RAM, memory-mapped GPIO, seven-segment debug output, and a bare-metal C flow
-
-**Focus:** SystemVerilog, RISC-V, CPU microarchitecture, pipelining, verification, FPGA SoC design
-
-### [Stigmergy](https://github.com/jaiden-stipp/Stigmergy)
-
-An FPGA ant-colony simulation that visualizes emergent behavior in real time over VGA.
-
-- Parameterized simulation with 64 ants moving through an 80 × 60 world
-- Food and home pheromone maps, random wall obstacles, nest/food rendering, and pheromone trails
-- Seven-segment output reports food returned to the nest
-- Targets the Terasic DE2-115 and Intel Cyclone IV E
-
-**Focus:** SystemVerilog, FPGA design, state machines, memory-mapped display logic, VGA, hardware visualization
+I started with a single-cycle CPU and later built a five-stage pipeline with forwarding, hazard detection, branch flushing, performance counters, and an automated verification environment.
 
 ### [RTLDeck](https://github.com/jaiden-stipp/RTLDeck)
 
-An offline desktop workspace for learning and developing with Verilog/SystemVerilog.
+An offline desktop application for writing and testing Verilog and SystemVerilog.
 
-- Runs genuine Icarus Verilog, Verilator, and Yosys workflows
-- Provides VCD waveform inspection, RTL schematics, lint diagnostics, project health checks, and source-to-waveform cross-probing
-- Bundles the HDL toolchain for a lower-friction Windows/Linux workflow
-- Includes an integration-focused test suite covering simulation, VCD generation, synthesis elaboration, persistence, learning projects, and large-waveform performance
+It brings simulation, waveforms, RTL schematics, linting, and project tools into one workspace using Icarus Verilog, Verilator, and Yosys.
 
-**Focus:** Electron, React, Verilog/SystemVerilog, Icarus Verilog, Verilator, Yosys, VCD, desktop tooling
+### [Stigmergy](https://github.com/jaiden-stipp/Stigmergy)
 
+An ant-colony simulation that runs entirely on an FPGA.
+
+Sixty-four ants explore a randomly generated world, follow pheromone trails, collect food, and form paths that are displayed in real time over VGA.
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/jaidenstipp/)
+* [Email](mailto:jaidenstipp@gmail.com)
+
+
+[![Jaiden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiden-stipp&theme=github-compact&hide_border=true&area=true)](https://github.com/jaiden-stipp)
 
